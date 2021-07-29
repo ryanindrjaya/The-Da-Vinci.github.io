@@ -362,4 +362,8 @@ body {
     .art {
       display: block;
     }
+  
+  .main-art {
+      padding: 0 20px;
+    }
 }
